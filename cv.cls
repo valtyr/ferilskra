@@ -48,3 +48,10 @@
   \tuftebreak% add some space before the text begins
   \@afterindentfalse\@afterheading% suppress indentation of the next paragraph
 }
+
+\geometry{
+  left=44.8mm, % left margin
+  textwidth=120mm, % main text block
+  marginparsep=0mm, % gutter between main text block and margin notes
+  marginparwidth=0mm % width of margin notes
+}

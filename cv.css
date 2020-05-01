@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+}
+
+header,
+article {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+
+  padding: 15px;
+}
+
+.timerange {
+  font-style: italic;
+  font-size: 12px;
+  color: grey;
+  margin-top: 10px;
+}
+
+article > h1 {
+  margin: 60px 0 30px 0;
+  color: darkgrey;
+}
+
+article > h1::after {
+  display: block;
+  content: "";
+  width: 40px;
+  height: 1px;
+  margin-top: 10px;
+  background: lightgrey;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 0 0 0 0;
+}
+
+p {
+  line-height: 1.8em;
+  margin-bottom: 50px;
+}
+
+header {
+  padding-top: 40px;
+  text-align: center;
+}
+
+article {
+  padding-bottom: 40px;
+}
+
+header > * {
+  margin: 0;
+}
+
+.title {
+  font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman,
+    Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  font-weight: normal;
+  font-size: 40px;
+  margin-bottom: 10px;
+  color: rebeccapurple;
+}
+
+.author {
+  font-style: italic;
+  font-weight: 600;
+}
