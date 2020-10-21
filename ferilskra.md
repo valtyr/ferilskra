@@ -3,7 +3,7 @@ documentclass: cv
 title: Ferilskrá
 author: Valtýr Örn Kjartansson
 #date: valtyr@gmail.com - 857-8037 - valtyr.is
-date: Apríl 2020
+date: Október 2020
 fontsize: 15pt
 #mainfont: Palatino
 monofont: Menlo
