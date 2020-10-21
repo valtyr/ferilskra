@@ -19,10 +19,6 @@ urlcolor: RoyalBlue
 
 # **Námsferill**
 
-## Danmarks Tekniske Universitet (DTU) \timerange{Haustið 2020}
-
-Er á leið í skiptinám í DTU næsta haust. Mun taka kúrsa í verkefnastjórnun, iðnaðarverkfræði, hugbúnaðargerð og UX.
-
 ## Háskóli Íslands \timerange{2018 -}
 
 Stunda BS nám við Háskóla Íslands í hugbúnaðarverkfræði. Var meðlimur í Formula Student liði
@@ -34,6 +30,11 @@ Stúdent af Eðlisfræðibraut í MR með spænsku sem þriðja tungumál. Vann 
 Sá einnig um vefsíðu nemendafélaganna fyrstu tvö árin og smáforrit fyrir Framtíðina seinasta árið.
 
 # **Starfsreynsla**
+
+## Avo \timerange{2020}
+
+Starfaði hjá sprotafyritækinu Avo sumarið 2020 þar sem meginverkefni mitt var að taka í gegn "Documentation" síðu þjónustunnar. Verkefnið var unnið í _Next.js_ en snerist líka að miklu leyti um að bjóða kúnnum fyrirtækisins upp á einfalda leið til að skoða og breyta frumkóða síðunnar.
+Ég sat einnig í hönnunarráði fyrirtækisins og sinnti ýmsum smærri verkefnum.
 
 ## Martin Audio \timerange{2020}
 
