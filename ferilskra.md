@@ -3,7 +3,7 @@ documentclass: cv
 title: Ferilskrá
 author: Valtýr Örn Kjartansson
 #date: valtyr@gmail.com - 857-8037 - valtyr.is
-date: Október 2020
+date: Mars 2021
 fontsize: 15pt
 #mainfont: Palatino
 monofont: Menlo
@@ -80,7 +80,7 @@ Við þróuðum bæði hugbúnað og "hardware".
 
 ## IceCTF \timerange{2018}
 
-Vann fyrstu veðlaun meðal íslenskra keppenda í “Capture the Flag” hakkarkeppninni IceCTF með tveimur
+Vann fyrstu veðlaun meðal íslenskra keppenda í “Capture the Flag” hakkarakeppninni IceCTF með tveimur
 skólafélögum mínum. Liðið var í 21. sæti í alþjóðlegum hluta keppninnar.
 
 ## Forritunarkeppni Framhaldsskólanna \timerange{2014}
