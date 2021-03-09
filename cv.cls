@@ -35,7 +35,7 @@
     \setlength{\parskip}{4pt}%
 
     \gdef\@@title{\LARGE\itshape\@author\par}%
-    \gdef\@@subtitle{\Large Ferilskrá \textcolor{DateColor}{\the\year{}}\par}
+    \gdef\@@subtitle{\Large \@title \hspace{0.1cm} \textcolor{DateColor}{\the\year{}}\par}
     \gdef\@@contact{\small valtyr@gmail.com \\ 857-8037 \\ valtyr.is \par}
 
     \@@title
@@ -55,3 +55,4 @@
   marginparsep=0mm, % gutter between main text block and margin notes
   marginparwidth=0mm % width of margin notes
 }
+
